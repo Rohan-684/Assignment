@@ -5,7 +5,7 @@ const CustomButton = ({ text }) => {
         {text}
       </button>
       <div className="mt-1">
-        <span className="text-[#e37d9b] mr-1 font-semibold">5,072</span>
+        <span className="text-[#e37d9b] mr-1 font-semibold">4,961</span>
         <span> video professionals</span>
       </div>
       <p className="opacity-50">joined Boords in the last 7 days</p>
